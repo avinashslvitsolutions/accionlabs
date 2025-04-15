@@ -1,0 +1,3 @@
+RUN using below comman, make sure you have python3 installed
+
+python3 fibonacci_sum.py
