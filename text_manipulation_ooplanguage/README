@@ -1,0 +1,5 @@
+Uses a regular expression to match ERROR lines and extract User and IP.
+
+Stores unique combinations using a set.
+
+Clean object-oriented design makes it reusable and extensible.

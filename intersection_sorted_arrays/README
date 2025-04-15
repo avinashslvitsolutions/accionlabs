@@ -1,0 +1,7 @@
+Enter first sorted array: 1 2 2 3 4 5 6
+Enter second sorted array: 2 2 4 6 6 8 10
+
+Results:
+Array 1: [1, 2, 2, 3, 4, 5, 6]
+Array 2: [2, 2, 4, 6, 6, 8, 10]
+Intersection: [2, 4, 6]

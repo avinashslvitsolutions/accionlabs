@@ -1,0 +1,4 @@
+[2025-04-15 10:45:21] INFO User: JohnDoe IP: 192.168.1.10 Status: 200
+[2025-04-15 10:45:22] ERROR User: JaneSmith IP: 192.168.1.11 Status: 500
+[2025-04-15 10:45:23] INFO User: JohnDoe IP: 192.168.1.10 Status: 200
+

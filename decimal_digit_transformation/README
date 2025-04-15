@@ -1,0 +1,11 @@
+RUN the code as below:
+
+python3 digit_transformer.py
+
+Below is the output
+
+Digit Transformation Calculator
+Enter a single digit (0-9): 6
+
+Calculation for digit 6:
+6 + 66 + 666 + 6666 = 7404
